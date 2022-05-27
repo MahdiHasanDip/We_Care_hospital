@@ -1,0 +1,33 @@
+.Nav-link li{
+    list-style: none;
+    display:inline;
+    margin-left: 20px;
+    align-items:flex-end;
+    font-weight: bolder;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+
+.logo{
+    margin-top:5px;
+    width: 150px;
+    
+}
+
+.Link{
+    text-decoration: none;
+    color: black;
+}
+
+.Navbar{
+    background-color: #d1e9eb;    
+}
+
+.logout-btn{
+    border: 1px solid rgb(90, 90, 243);
+    background-color:#55B9EB;
+    padding: 4px 20px;
+    color: white;
+    border-radius: 5px  ;
+}

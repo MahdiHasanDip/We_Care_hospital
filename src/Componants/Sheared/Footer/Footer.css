@@ -1,0 +1,17 @@
+.footer-img{
+    width: 180px;
+}
+
+.footer-container{
+    background: rgb(39, 38, 38);
+    color: silver;
+    padding: 55px;
+    
+}
+.footer-container b{
+    color: silver;
+    
+}
+.footer-container b:hover{
+    color: rgb(240, 166, 166);
+}
